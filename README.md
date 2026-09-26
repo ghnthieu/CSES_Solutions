@@ -4,7 +4,7 @@ My **C++ solutions** to the [CSES Problem Set](https://cses.fi/problemset/).
 
 ## 📊 Progress
 
-**207 problems solved**
+**121 problems solved**
 
 ## 🧠 Topics
 
